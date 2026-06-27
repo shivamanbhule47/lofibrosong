@@ -1,0 +1,6 @@
+{
+  "name": "Lofi Bros",
+  "description": "A cozy lo-fi music sharing platform and immersive player inspired by Spotify's dark aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
